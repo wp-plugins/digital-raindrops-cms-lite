@@ -1,0 +1,20 @@
+/*	
+This file is part of the Digital Raindrops CMS-Lite for WordPress Plugin
+Copyright 2010  David Cox  (email : david.cox@digitalraindrops.net)
+Plugin Support: http://www.digitalraindrops.net/Boards/
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+*/
+
+/* This CSS file will be loaded last, make any changes to your styles only in this file
+When you want to use one of the addons just paste the css file Contents into this file,
+
+Change the look and feel of your theme here, allowing you to revert back at any time
+Example to change the background image from the themes default image: background.png 
+.body
+{
+	background-image: url('images/my-background.png');
+}
+*/
+

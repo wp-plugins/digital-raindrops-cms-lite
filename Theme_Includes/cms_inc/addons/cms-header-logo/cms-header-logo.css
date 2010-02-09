@@ -1,0 +1,34 @@
+/*	
+This file is part of the Digital Raindrops CMS-Lite for WordPress Plugin
+Copyright 2010  David Cox  (email : david.cox@digitalraindrops.net)
+Plugin Support: http://www.digitalraindrops.net/Boards/
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+Tutorial: http://digitalraindrops.net/demo/wordpress/cms-lite/
+Support: http://www.digitalraindrops.net/Boards/
+*/
+
+/* change the height width margin and float here */
+/* header is 125px */ 
+#cms-header-logo
+{
+	position: absolute;
+	float:left;
+	height:85px;
+	margin-top:20px;
+	margin-left:10px;
+	width:300px;
+	overflow:hidden;
+	background-image: url('images/logo.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+/* change the height width for clickable area here */ 
+#cms-header-logo a {
+	position: absolute;
+	display: block;
+	height:85px;
+	width: 300px;
+}

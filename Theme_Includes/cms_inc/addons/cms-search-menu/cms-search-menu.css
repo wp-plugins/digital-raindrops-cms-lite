@@ -1,0 +1,50 @@
+/*	
+This file is part of the Digital Raindrops CMS-Lite for WordPress Plugin
+Copyright 2010  David Cox  (email : david.cox@digitalraindrops.net)
+Plugin Support: http://www.digitalraindrops.net/Boards/
+
+The CSS, XHTML and design is released under GPL:
+http://www.opensource.org/licenses/gpl-license.php
+
+Tutorial: http://digitalraindrops.net/demo/wordpress/cms-lite/
+Support: http://www.digitalraindrops.net/Boards/
+*/
+
+.nav-search	{
+	float:right;
+	width:auto;
+    margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+.nav-searchbox	{
+	background: #FFFFFF !important;
+	color:#417E83;
+  	font-weight: normal;
+    border: 1px dotted #cccccc;
+	padding: 2px 6px 2px 4px;
+	margin: 0 0 0 7px;
+	display: inline;
+	width:160px;
+}
+#searchbutton	{	
+	background-color: #FFFFFF !important;
+	color:#212121;
+    font-family: Arial,Helvetica,Sans-Serif;
+    font-size: 16px;
+    font-weight:bold;
+    text-align: center;
+    border: 0;
+	margin:0;
+    display:inline;
+	width:auto;
+    height: 26px;
+	cursor:pointer;
+}
+
+#searchbutton:hover
+{
+	background-color: #737373 !important;
+	color: #f0f0f0 !important;
+}
